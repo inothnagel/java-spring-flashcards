@@ -1,4 +1,4 @@
-package com.inothnagel;
+package com.inothnagel.flashcards;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

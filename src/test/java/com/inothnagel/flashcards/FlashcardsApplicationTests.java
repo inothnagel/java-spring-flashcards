@@ -1,4 +1,4 @@
-package com.inothnagel;
+package com.inothnagel.flashcards;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

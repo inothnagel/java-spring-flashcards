@@ -28,9 +28,10 @@ repositories {
 
 dependencies {
 	compile('org.springframework.boot:spring-boot-starter-web')
+	compile group: 'javax.persistence', name: 'persistence-api', version: '1.0'
+    compile 'org.springframework.data:spring-data-jpa:1.10.2.RELEASE'
 	testCompile('org.springframework.boot:spring-boot-starter-test') 
 }
-
 
 eclipse {
 	classpath {
